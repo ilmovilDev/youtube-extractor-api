@@ -15,12 +15,12 @@ Esta aplicación Flask proporciona una API para extraer contenido de videos de Y
 
 1. **Clonar el repositorio**:
     ```bash
-    git clone https://github.com/tu_usuario/tu_repositorio.git
+    git clone https://github.com/ilmovilDev/youtube-extractor-api.git
     ```
 
 2. **Accede al directorio del proyecto:**
     ```bash
-    cd tu_repositorio
+    cd youtube-extractor-api.git
     ```
 
 ## Ejecución con Docker
